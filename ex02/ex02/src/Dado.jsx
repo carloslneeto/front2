@@ -2,7 +2,7 @@ import react from "react";
 
 const Dado = ({valor})=>{
     const imagens={
-        1: "https://www.hiperfer.com.br/numero-residencial-em-aluminio-preto-n-1-125mm-numeral",
+        1: "https://hiperfer.cdn.magazord.com.br/img/2022/09/produto/11721/14053-1-numero-residencial-em-aluminio-preto-n-1-185mm-numeral.jpg?ims=500x500",
         2: "https://hiperfer.cdn.magazord.com.br/img/2022/09/produto/11720/14054-1-numero-residencial-em-aluminio-preto-n-2-185mm-numeral.jpg?ims=500x500",
         3: "https://hiperfer.cdn.magazord.com.br/img/2022/09/produto/11719/14055-1-numero-residencial-em-aluminio-preto-n-3-185mm-numeral.jpg?ims=500x500",
         4: "https://d365e82sgxmduv.cloudfront.net/Custom/Content/Products/23/27/2327862_numero-4-em-acm-preto-125mm-600-4-numeral_m2_638103280570939827.webp",
