@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.botao {
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.botao:hover {
+  background-color: #0056b3;
+}
