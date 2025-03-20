@@ -1,12 +1,12 @@
 import React from "react";
-import Jogo from "./Jogo";
+import Jogo from "./Jogo.jsx";
 
-const App = () => {
+function App() {
   return (
     <div>
       <Jogo />
     </div>
   );
-};
+}
 
 export default App;
